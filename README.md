@@ -1,2 +1,2 @@
 # Password-Generator-Strength-Checker
-A code repo for generating randomm password and checkinh password strength
+A code repo for generating random password and checking password strength.
